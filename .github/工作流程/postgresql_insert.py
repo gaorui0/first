@@ -25,3 +25,4 @@ def tem():
 
     conn.commit()
     close(conn,cursor)
+#连接postgresql数据库函数及插入sql例子
